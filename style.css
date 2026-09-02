@@ -1,13 +1,13 @@
 :root {
-  --bg-dark: #121212;
-  --bg-card: #181818;
-  --bg-hover: #282828;
-  --text-primary: #ffffff;
-  --text-secondary: #b3b3b3;
-  --accent-color: #e50914; /* Red accent */
-  --accent-hover: #f40612;
-  --player-bg: #181818;
-  --border-color: #282828;
+  --bg-dark: #0f172a;
+  --bg-card: #1e293b;
+  --bg-hover: #334155;
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --accent-color: #3b82f6; /* Blue accent */
+  --accent-hover: #2563eb;
+  --player-bg: #1e293b;
+  --border-color: #334155;
 }
 
 * {
